@@ -76,6 +76,9 @@ a, a:hover, a:focus {
   background-color: #DDD;
   border-color: #000;
 }
+.showback .btn i{
+	color: #797979;
+}
 .btn-theme:hover,
 .btn-theme:focus,
 .btn-theme:active,
